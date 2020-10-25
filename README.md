@@ -1,4 +1,4 @@
 # React-Firebase-Authentication
 Authentication in React app with Firebase
 
-Chapter 02: Clean the app
+Chapter 03: Create the navigation bar
